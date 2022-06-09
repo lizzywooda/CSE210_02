@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+0EJpl2PKW7DVTvTRLB+pl95NVaT/YFjgUtBtBMok1ZYU9EmxIN2dHP84aXKiVQoUxuN/yMXrRYr4GVAUVMjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lizzy\\Desktop\\Classes\\CSE 210\\CSE210_02\\CSE210_02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lizzy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

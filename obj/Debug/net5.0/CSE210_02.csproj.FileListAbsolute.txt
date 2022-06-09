@@ -1,0 +1,16 @@
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\bin\Debug\net5.0\CSE210_02.exe
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\bin\Debug\net5.0\CSE210_02.deps.json
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\bin\Debug\net5.0\CSE210_02.runtimeconfig.json
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\bin\Debug\net5.0\CSE210_02.runtimeconfig.dev.json
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\bin\Debug\net5.0\CSE210_02.dll
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\bin\Debug\net5.0\CSE210_02.pdb
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.csproj.AssemblyReference.cache
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.AssemblyInfoInputs.cache
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.AssemblyInfo.cs
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.csproj.CoreCompileInputs.cache
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.dll
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\refint\CSE210_02.dll
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.pdb
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\CSE210_02.genruntimeconfig.cache
+C:\Users\lizzy\Desktop\Classes\CSE 210\CSE210_02\obj\Debug\net5.0\ref\CSE210_02.dll
