@@ -20,7 +20,7 @@ namespace CSE210_02
 
         public void StartGame()
         {
-            int currentCard = deck.getNewCard();
+            currentCard = deck.getNewCard();
             while (isPlaying)
             {
                 MainGame();
@@ -30,11 +30,7 @@ namespace CSE210_02
 
         public void MainGame(){
             Console.WriteLine($"The card is {currentCard}");
-            if (!isPlaying)
-            {
-                return;
-            }
-
+            
             nextCard = deck.getNewCard();
 
             Console.Write("Higher or Lower: [h/l] ");
@@ -66,9 +62,6 @@ namespace CSE210_02
             {
                 if (totalScore == 0){
                     isPlaying = false;
-                }
-                if (!isPlaying){
-                    return;
                 }
 
                 currentCard = nextCard;
